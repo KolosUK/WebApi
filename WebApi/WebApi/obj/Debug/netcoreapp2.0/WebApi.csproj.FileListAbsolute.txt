@@ -1,0 +1,11 @@
+D:\stady\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+D:\stady\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+D:\stady\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+D:\stady\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+D:\stady\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+D:\stady\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+D:\stady\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+D:\stady\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+D:\stady\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+D:\stady\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+D:\stady\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
